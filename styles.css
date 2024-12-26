@@ -9,7 +9,7 @@ body {
 
 /* Header Styles */
 header {
-    background: url('headerphoto.jpg')
+    background-image: url('headerphoto.jpg')
     color: white;
     padding: 1rem 0;
     text-align: center;
