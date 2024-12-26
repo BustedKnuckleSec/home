@@ -9,7 +9,7 @@ body {
 
 /* Header Styles */
 header {
-    img src="headerphoto.jpg" alt="cyber" width="500" height="600">;
+    background-image: ('headerphoto.jpg')
     color: white;
     padding: 1rem 0;
     text-align: center;
