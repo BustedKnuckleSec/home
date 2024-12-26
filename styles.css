@@ -9,10 +9,13 @@ body {
 
 /* Header Styles */
 header {
-    background-color: #1179ee;
-    color: white;
-    padding: 1rem 0;
-    text-align: center;
+    background-image: url('mypicture.jpg'); /* Replace 'mypicture.jpg' with your image path */
+    background-size: cover; /* Ensures the image covers the entire header */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    color: white; /* Makes the text white for better visibility on most images */
+    text-align: center; /* Centers the text horizontally */
+    padding: 2rem 0; /* Adds space around the text */
 }
 
 /* Navigation Bar Styles */
