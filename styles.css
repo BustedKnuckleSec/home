@@ -9,7 +9,7 @@ body {
 
 /* Header Styles */
 header {
-    background-image: url('headerphoto.jpg'); /* Replace 'mypicture.jpg' with your image path */
+    background-image: url('headerphoto1.webp'); /* Replace 'mypicture.jpg' with your image path */
     background-size: cover; /* Ensures the image covers the entire header */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
