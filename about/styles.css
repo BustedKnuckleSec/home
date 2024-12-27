@@ -9,7 +9,7 @@ body {
 
 /* Header Styles */
 header {
-    background-image: url('/home/headerphoto.jpg'); 
+    background-image: url('headerphoto.jpg'); 
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
