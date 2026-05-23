@@ -5,6 +5,11 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+
+    /* Keeps footer near bottom of page */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Header Styles */
@@ -41,6 +46,9 @@ nav a:hover {
 main {
     padding: 2rem;
     text-align: center;
+
+    /* Pushes footer lower */
+    flex: 1;
 }
 
 section {
